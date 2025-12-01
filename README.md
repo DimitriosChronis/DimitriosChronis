@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I'm Dimitris Chronis
+**Civil Engineer | Computational Designer | Python Developer**
 
-<!--
-**DimitriosChronis/DimitriosChronis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between traditional Engineering and Data Science. My goal is to automate workflows, quantify risks, and optimize construction costs using code.
 
-Here are some ideas to get you started:
+🚀 **My Toolkit:**
+* **Engineering:** Project Management, Cost Estimation, Structural Health Monitoring
+* **Tech:** Python, Pandas, NumPy, OpenCV, Monte Carlo Simulations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Featured Work:**
+* **Risk Analysis:** Stochastic budgeting models (Monte Carlo).
+* **Computer Vision:** Automated concrete crack detection.
+* **Finance:** Real Estate feasibility heatmaps.
+
+📫 **Contact:** [https://www.linkedin.com/in/dimitrios-chronis] | [dim.chronis.eng@gmail.com]

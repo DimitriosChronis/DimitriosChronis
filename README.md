@@ -7,7 +7,6 @@
 
 ### 🚀 Core Competencies (Optimized for Senior & Consulting Roles)
 
----
 
 #### 📊 Project Controls & Financial Risk
 

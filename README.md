@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Dimitrios Chronis
 
-### Civil Engineer | Computational Design | Python Developer
-
+### Civil Engineer | Computational Design | Financial Risk & Structural Optimization
 > Bridging the gap between Structural Engineering and Data Science. I build custom computational tools to automate analysis, optimize structural designs, and quantify project risk using advanced statistical methods.
 
 ---

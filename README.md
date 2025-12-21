@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dimitrios Chronis
 
-### Civil Engineering Student (NTUA) | Infrastructure Finance & Project Risk Analyst | RICS Student Member
+### Civil Engineering Student (NTUA) | Infrastructure Finance & Project Risk Analyst 
 > Bridging the gap between Structural Engineering, Data Science, and Finance. I develop high-fidelity computational tools to quantify project risk, automate complex analysis, and optimize structural performance through advanced statistical and probabilistic methods.
 
 ---

@@ -6,7 +6,7 @@ National Technical University of Athens (NTUA) · Athens, Greece
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9557--4175-brightgreen?logo=orcid)](https://orcid.org/0009-0001-9557-4175)
 [![RICS](https://img.shields.io/badge/RICS-Student%20Member-003D6B)](https://www.rics.org)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org)
-[![Research](https://img.shields.io/badge/Research-ASCE%20JCEM%202026-orange)](https://github.com/DimitriosChronis/quant-risk-copula)
+
 
 ---
 

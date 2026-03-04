@@ -1,97 +1,61 @@
-# Dimitrios Chronis
+# 👋 Hi, I'm Dimitrios Chronis
 
-**Civil Engineer · Quantitative Risk Analyst · RICS Student Member**
-National Technical University of Athens (NTUA) · Athens, Greece
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9557--4175-brightgreen?logo=orcid)](https://orcid.org/0009-0001-9557-4175)
-[![RICS](https://img.shields.io/badge/RICS-Student%20Member-003D6B)](https://www.rics.org)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org)
-
+### Civil Engineering Student (NTUA) | Infrastructure Finance & Project Risk Analyst 
+> Bridging the gap between Structural Engineering, Data Science, and Finance. I develop high-fidelity computational tools to quantify project risk, automate complex analysis, and optimize structural performance through advanced statistical and probabilistic methods.
 
 ---
 
-## About
+### 🚀 Core Competencies (Commercial & Technical Synergy)
 
-I bridge **structural engineering** and **quantitative finance** — applying stochastic modeling, copula theory, and machine learning to construction cost risk.
+#### 📊 Project Controls & Infrastructure Finance
+* **Probabilistic Financial Risk Management:** Implementing **Stochastic Modeling (Monte Carlo Simulations)** and Gaussian Copulas to quantify cost uncertainty, calculate **Value at Risk (VaR)**, and define **P85 budget contingencies**.
+* **Data-Driven Cost Control:** Utilizing **Machine Learning** and **Python** to automate BoQs and develop **Predictive Cost Models** for early identification of budget overruns.
+* **Contractual Risk Allocation:** Aligning technical delivery with **American Contract Law (Yale University)** frameworks to mitigate liability and optimize risk sharing.
 
-Currently a 3rd-year Civil Engineering student at NTUA, I work concurrently as a Quantity Surveyor & Risk Engineer on public infrastructure projects (€15M+) and conduct independent academic research on tail dependence in construction cost overruns.
+#### 🏗️ Structural Optimization & Computational Design
+* **Performance-Based Engineering:** Specialized in **Non-Linear Time History Analysis** and **Probabilistic Seismic Fragility** to assess infrastructure resilience.
+* **Generative & Topology Optimization:** Leveraging **Genetic Algorithms** and Evolutionary Design to minimize material consumption while maintaining structural integrity (ESG & Sustainability focus).
 
----
-
-## Research
-
-### From Statistical Error to Profit Erosion (2026)
-> *Quantifying Tail Dependence in Construction Cost Overruns using Gumbel Copulas*
-> Target: **ASCE Journal of Construction Engineering and Management**
-
-Standard industry models assume Gaussian dependence between construction material prices — a structural flaw that hides catastrophic risk during crises. Using 24 years of Greek ELSTAT data and 100,000 Monte Carlo simulations, this study quantifies a **EUR 45,806 hidden risk gap** at P85 during the 2021-2024 energy crisis — equivalent to **38–48% erosion of contractor net profit margins**.
-
-[![Repo](https://img.shields.io/badge/Code-quant--risk--copula-181717?logo=github)](https://github.com/DimitriosChronis/quant-risk-copula)
-[![Status](https://img.shields.io/badge/Status-Ready%20for%20Submission-yellow)]()
-
-**Key results:**
-- Gumbel copula (θ=6.67, λU=0.80) outperforms Gaussian by AIC/BIC in Crisis Regime
-- R-Vine robustness check: Δ = 0.04% at P85
-- Bootstrap 95% CI (full period): [EUR 14,498 ; EUR 25,971]
-- Egnatia Odos retrospective: 0.80% material-cost tail premium per contract phase
+#### 💡 Digital Twins & AI-Powered Maintenance
+* **Predictive Maintenance (SHM/IoT):** Developing **Structural Health Monitoring** systems. Integrating **Computer Vision (Crack Detection)** and **Anomaly Detection (Isolation Forest AI)** for early risk identification.
+* **BIM-Integrated Digital Twins:** Creating data-driven 3D/4D models to enhance inspection accuracy and project lifecycle maintenance.
 
 ---
 
-## Stack
-
-```python
-# Core toolkit
-import numpy as np          # Stochastic simulation
-import pandas as pd         # Time-series processing
-import scipy.stats          # MLE, Kendall tau, Jarque-Bera
-import pyvinecopulib        # R-Vine copula (pinned 0.7.5)
-import matplotlib.pyplot    # Publication figures (300 DPI)
-import statsmodels          # ARIMA, VAR (Paper 2)
-import sklearn              # Isolation Forest, ML pipelines
-import torch                # Deep learning (Paper 3 - LSTM)
-```
-
-| Domain | Tools |
-|---|---|
-| Risk Modeling | Monte Carlo, Gumbel/Vine Copulas, VaR, P85/P99 |
-| Structural | ETABS, AutoCAD, Revit (BIM), Civil3D |
-| Data | Python, MATLAB, SQL, QGIS |
-| Project Controls | MS Project, BoQs, Navisworks |
+### 🎓 Key Professional Certifications
+* **RICS Student Member** | Royal Institution of Chartered Surveyors.
+* **Infrastructure Finance** | Università Bocconi.
+* **Construction Management Specialization** | Columbia University.
+* **American Contract Law** | Yale University.
+* **Data Science & Visualization** | IBM Certified.
 
 ---
 
-## Experience
+### 💻 Tech Stack
 
-**AIRKAM ATEE** — Quantity Surveyor & Risk Engineer *(Sept 2023 – Present)*
-Public infrastructure projects (€15M+), Chalkida & Corinthia · Probabilistic risk assessments · Budget control under public work contracts
-
-**CHRONIS GROUP** — Commercial Manager & Project Lead *(Sept 2023 – Present)*
-Residential & PV infrastructure · Value engineering · Client advisory
-
-**CERN HSSIP** — Engineering Intern *(Sept 2021)*
-Top 25 nationwide selection · Particle detection systems · Safety protocol simulations
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk_Revit-BB0000?style=for-the-badge&logo=autodesk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
-## Education & Certifications
+### 📂 Featured Computational Projects
 
-🎓 **NTUA** — Diploma in Civil Engineering (Integrated M.Eng.), Expected 2028
-🏛️ **Università Bocconi** — Financing and Investing in Infrastructure
-⚖️ **Yale University** — American Contract Law I
-🏗️ **Columbia University** — Construction Management Specialization
-📊 **IBM** — Data Analysis & Visualization (Certified)
-🏅 **RICS** — Student Member
 
-**Awards:** High School Valedictorian (19.9/20) · Eurobank Scholarship · G.A. Mavroulias Foundation Scholarship
 
----
-
-## Languages
-
-🇬🇧 English — C2 (ECPE Proficiency)
-🇫🇷 French — B2 (DELF)
-🇬🇷 Greek — Native
+| Project | Description | Impact Metric | 
+| :--- | :--- | :--- |
+| 💰 **Financial Risk Engine** | Advanced budgeting model using **Gaussian Copulas** to simulate systemic inflation & asset correlation. | Mitigates Tail Risk by calculating **P85 threshold**. |
+| 🥇 **Seismic Fragility Analysis** | Custom **Non-Linear Solver** simulating 500+ earthquake events to derive collapse probabilities. | Quantifies **Probabilistic Risk** for insurance/valuation. |
+| 🥈 **Topology Optimization** | **Generative Design** engine using Genetic Algorithms to evolve optimal truss structures. | **60% Material Reduction** achieving ESG goals. |
+| 📡 **AI-Powered SHM (IoT)** | Dual-modal monitoring combining **Computer Vision** and **Signal Processing (Isolation Forest)**. | Identifies anomalies up to **6 months** before failure. |
 
 ---
 
-*"The contingencies were calibrated for a Gaussian world — not a Gumbel one."*
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-chronis/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dim.chronis.eng@gmail.com)

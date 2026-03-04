@@ -12,13 +12,13 @@ National Technical University of Athens (NTUA) · Athens, Greece
 ### Research
 
 **From Statistical Error to Profit Erosion: Quantifying Tail Dependence in Construction Cost Overruns**
-*Target: ASCE Journal of Construction Engineering and Management (2026)*
 
-Standard industry risk models assume Gaussian dependence between construction material prices — a structural flaw that systematically underestimates capital requirements during crises. Using 24 years of Greek ELSTAT data and 100,000 Monte Carlo simulations with Gumbel Archimedean copulas, the study quantifies a **EUR 45,806 hidden risk gap** at P85 during the 2021–2024 energy crisis — equivalent to **38–48% erosion of contractor net profit margins**.
+
+Standard industry risk models assume Gaussian dependence between construction material prices - a structural flaw that systematically underestimates capital requirements during crises. Using 24 years of Greek ELSTAT data and 100,000 Monte Carlo simulations with Gumbel Archimedean copulas, the study quantifies a **EUR 45,806 hidden risk gap** at P85 during the 2021–2024 energy crisis - equivalent to **38–48% erosion of contractor net profit margins**.
 
 [![Repository](https://img.shields.io/badge/Code-quant--risk--copula-181717?style=flat&logo=github)](https://github.com/DimitriosChronis/quant-risk-copula)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9557--4175-brightgreen?style=flat&logo=orcid)](https://orcid.org/0009-0001-9557-4175)
-![Status](https://img.shields.io/badge/Status-Ready%20for%20Submission-yellow?style=flat)
+
 
 ---
 
@@ -47,12 +47,12 @@ Standard industry risk models assume Gaussian dependence between construction ma
 
 ### Education & Certifications
 
-- **NTUA** — Diploma in Civil Engineering (Integrated M.Eng.), Expected 2028
-- **RICS** — Student Member · Royal Institution of Chartered Surveyors
-- **Università Bocconi** — Financing and Investing in Infrastructure
-- **Yale University** — American Contract Law I
-- **Columbia University** — Construction Management Specialization
-- **IBM** — Data Analysis & Visualization (Certified)
+- **NTUA** - Diploma in Civil Engineering (Integrated M.Eng.), Expected 2028
+- **RICS** - Student Member · Royal Institution of Chartered Surveyors
+- **Università Bocconi** - Financing and Investing in Infrastructure
+- **Yale University** - American Contract Law I
+- **Columbia University** - Construction Management Specialization
+- **IBM** - Data Analysis & Visualization (Certified)
 
 *Valedictorian (19.9/20) · Eurobank Scholarship · G.A. Mavroulias Foundation Scholarship*
 
@@ -60,11 +60,11 @@ Standard industry risk models assume Gaussian dependence between construction ma
 
 ### Experience
 
-**AIRKAM ATEE** — Quantity Surveyor & Risk Engineer *(Sept 2023 – Present)*
+**AIRKAM ATEE** - Quantity Surveyor & Risk Engineer *(Sept 2023 – Present)*
 Public infrastructure · €15M+ projects · Probabilistic risk assessments · Budget control
 
-**CHRONIS GROUP** — Commercial Manager & Project Lead *(Sept 2023 – Present)*
+**CHRONIS GROUP** - Commercial Manager & Project Lead *(Sept 2023 – Present)*
 Residential & PV projects · Value engineering · Client advisory
 
-**CERN** — HSSIP Engineering Intern *(Sept 2021)*
+**CERN** - HSSIP Engineering Intern *(Sept 2021)*
 Top 25 nationwide · Particle detection systems · Computational safety simulations

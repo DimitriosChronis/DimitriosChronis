@@ -1,61 +1,70 @@
-# 👋 Hi, I'm Dimitrios Chronis
+## Dimitrios Chronis
 
-### Civil Engineering Student (NTUA) | Infrastructure Finance & Project Risk Analyst 
-> Bridging the gap between Structural Engineering, Data Science, and Finance. I develop high-fidelity computational tools to quantify project risk, automate complex analysis, and optimize structural performance through advanced statistical and probabilistic methods.
+**Civil Engineer · Quantitative Risk Researcher · RICS Student Member**
+National Technical University of Athens (NTUA) · Athens, Greece
 
----
-
-### 🚀 Core Competencies (Commercial & Technical Synergy)
-
-#### 📊 Project Controls & Infrastructure Finance
-* **Probabilistic Financial Risk Management:** Implementing **Stochastic Modeling (Monte Carlo Simulations)** and Gaussian Copulas to quantify cost uncertainty, calculate **Value at Risk (VaR)**, and define **P85 budget contingencies**.
-* **Data-Driven Cost Control:** Utilizing **Machine Learning** and **Python** to automate BoQs and develop **Predictive Cost Models** for early identification of budget overruns.
-* **Contractual Risk Allocation:** Aligning technical delivery with **American Contract Law (Yale University)** frameworks to mitigate liability and optimize risk sharing.
-
-#### 🏗️ Structural Optimization & Computational Design
-* **Performance-Based Engineering:** Specialized in **Non-Linear Time History Analysis** and **Probabilistic Seismic Fragility** to assess infrastructure resilience.
-* **Generative & Topology Optimization:** Leveraging **Genetic Algorithms** and Evolutionary Design to minimize material consumption while maintaining structural integrity (ESG & Sustainability focus).
-
-#### 💡 Digital Twins & AI-Powered Maintenance
-* **Predictive Maintenance (SHM/IoT):** Developing **Structural Health Monitoring** systems. Integrating **Computer Vision (Crack Detection)** and **Anomaly Detection (Isolation Forest AI)** for early risk identification.
-* **BIM-Integrated Digital Twins:** Creating data-driven 3D/4D models to enhance inspection accuracy and project lifecycle maintenance.
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9557--4175-brightgreen?style=flat&logo=orcid)](https://orcid.org/0009-0001-9557-4175)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimitrios%20Chronis-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dimitrios-chronis/)
+[![Email](https://img.shields.io/badge/Email-dim.chronis.eng%40gmail.com-D14836?style=flat&logo=gmail)](mailto:dim.chronis.eng@gmail.com)
 
 ---
 
-### 🎓 Key Professional Certifications
-* **RICS Student Member** | Royal Institution of Chartered Surveyors.
-* **Infrastructure Finance** | Università Bocconi.
-* **Construction Management Specialization** | Columbia University.
-* **American Contract Law** | Yale University.
-* **Data Science & Visualization** | IBM Certified.
+### Research
+
+**From Statistical Error to Profit Erosion: Quantifying Tail Dependence in Construction Cost Overruns**
+*Target: ASCE Journal of Construction Engineering and Management (2026)*
+
+Standard industry risk models assume Gaussian dependence between construction material prices — a structural flaw that systematically underestimates capital requirements during crises. Using 24 years of Greek ELSTAT data and 100,000 Monte Carlo simulations with Gumbel Archimedean copulas, the study quantifies a **EUR 45,806 hidden risk gap** at P85 during the 2021–2024 energy crisis — equivalent to **38–48% erosion of contractor net profit margins**.
+
+[![Repository](https://img.shields.io/badge/Code-quant--risk--copula-181717?style=flat&logo=github)](https://github.com/DimitriosChronis/quant-risk-copula)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9557--4175-brightgreen?style=flat&logo=orcid)](https://orcid.org/0009-0001-9557-4175)
+![Status](https://img.shields.io/badge/Status-Ready%20for%20Submission-yellow?style=flat)
 
 ---
 
-### 💻 Tech Stack
+### Computational Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Autodesk](https://img.shields.io/badge/Autodesk_Revit-BB0000?style=for-the-badge&logo=autodesk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-
----
-
-### 📂 Featured Computational Projects
-
-
-
-| Project | Description | Impact Metric | 
+| Project | Method | Output |
 | :--- | :--- | :--- |
-| 💰 **Financial Risk Engine** | Advanced budgeting model using **Gaussian Copulas** to simulate systemic inflation & asset correlation. | Mitigates Tail Risk by calculating **P85 threshold**. |
-| 🥇 **Seismic Fragility Analysis** | Custom **Non-Linear Solver** simulating 500+ earthquake events to derive collapse probabilities. | Quantifies **Probabilistic Risk** for insurance/valuation. |
-| 🥈 **Topology Optimization** | **Generative Design** engine using Genetic Algorithms to evolve optimal truss structures. | **60% Material Reduction** achieving ESG goals. |
-| 📡 **AI-Powered SHM (IoT)** | Dual-modal monitoring combining **Computer Vision** and **Signal Processing (Isolation Forest)**. | Identifies anomalies up to **6 months** before failure. |
+| **Tail Risk Engine** (Paper) | Gumbel Copula · Marshall-Olkin sampler · Bootstrap CI | EUR 45,806 hidden risk gap at P85 |
+| **Seismic Fragility Analysis** | Non-linear time history · 500+ runs | Probabilistic collapse curves |
+| **Credit Risk Modeling** (JPMorgan Forage) | Dynamic programming · FICO quantization | PD estimation · loan book analysis |
+| **Structural Anomaly Detection** | Isolation Forest · OpenCV | Automated SHM pipeline |
 
 ---
 
-### 📫 Connect with me
+### Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitrios-chronis/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dim.chronis.eng@gmail.com)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat&logo=mathworks&logoColor=white)
+![Revit](https://img.shields.io/badge/Autodesk%20Revit-BB0000?style=flat&logo=autodesk&logoColor=white)
+
+---
+
+### Education & Certifications
+
+- **NTUA** — Diploma in Civil Engineering (Integrated M.Eng.), Expected 2028
+- **RICS** — Student Member · Royal Institution of Chartered Surveyors
+- **Università Bocconi** — Financing and Investing in Infrastructure
+- **Yale University** — American Contract Law I
+- **Columbia University** — Construction Management Specialization
+- **IBM** — Data Analysis & Visualization (Certified)
+
+*Valedictorian (19.9/20) · Eurobank Scholarship · G.A. Mavroulias Foundation Scholarship*
+
+---
+
+### Experience
+
+**AIRKAM ATEE** — Quantity Surveyor & Risk Engineer *(Sept 2023 – Present)*
+Public infrastructure · €15M+ projects · Probabilistic risk assessments · Budget control
+
+**CHRONIS GROUP** — Commercial Manager & Project Lead *(Sept 2023 – Present)*
+Residential & PV projects · Value engineering · Client advisory
+
+**CERN** — HSSIP Engineering Intern *(Sept 2021)*
+Top 25 nationwide · Particle detection systems · Computational safety simulations

@@ -16,7 +16,7 @@ National Technical University of Athens (NTUA) · Athens, Greece
 [![Repository](https://img.shields.io/badge/Code-construction--risk--suite-181717?style=flat&logo=github)](https://github.com/DimitriosChronis/construction-risk-suite)
 
 **Real-Time Crisis-Regime Detection for Construction Fuel and Energy Costs: An Explainable LSTM Early-Warning Agent**
-*Accepted — in production, Journal of Computing in Civil Engineering (ASCE)*
+*In production, Journal of Computing in Civil Engineering (ASCE) · DOI: [10.1061/JCCEE5/CPENG-8417](https://doi.org/10.1061/JCCEE5/CPENG-8417)*
 
 An automated early-warning pipeline that classifies Greek construction fuel/energy cost crisis regimes two months ahead using only public US Producer Price Index series as leading indicators. A five-seed LSTM ensemble with strictly point-in-time (leak-free) crisis labels attains **AUC = 0.908** out-of-sample; SHAP explainability reveals regime-dependent feature importance, and eight probability-driven procurement rules save **EUR 2.35M over a 72-month simulation** versus a static baseline.
 
@@ -29,6 +29,7 @@ Standard industry risk models assume Gaussian dependence between construction ma
 
 ### Academic Service
 
+- **Peer Reviewer** — *Journal of Computing in Civil Engineering* (ASCE)
 - **Peer Reviewer** — *Automation in Construction* (Elsevier)
 
 ---

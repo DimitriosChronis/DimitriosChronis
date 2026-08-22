@@ -11,14 +11,25 @@ National Technical University of Athens (NTUA) · Athens, Greece
 
 ### Research
 
+**Construction Cost-Risk Research Suite** — a five-paper, first-author research program on quantitative construction cost risk: copula-based tail dependence, commodity-transmission networks, LSTM crisis early-warning, and portfolio-level risk monitoring on public procurement data. One paper accepted and in production (ASCE); four under peer review (ASCE, Elsevier, Taylor & Francis).
+
+[![Repository](https://img.shields.io/badge/Code-construction--risk--suite-181717?style=flat&logo=github)](https://github.com/DimitriosChronis/construction-risk-suite)
+
+**Real-Time Crisis-Regime Detection for Construction Fuel and Energy Costs: An Explainable LSTM Early-Warning Agent**
+*Accepted — in production, Journal of Computing in Civil Engineering (ASCE)*
+
+An automated early-warning pipeline that classifies Greek construction fuel/energy cost crisis regimes two months ahead using only public US Producer Price Index series as leading indicators. A five-seed LSTM ensemble with strictly point-in-time (leak-free) crisis labels attains **AUC = 0.908** out-of-sample; SHAP explainability reveals regime-dependent feature importance, and eight probability-driven procurement rules save **EUR 2.35M over a 72-month simulation** versus a static baseline.
+
 **From Statistical Error to Profit Erosion: Quantifying Tail Dependence in Construction Cost Overruns**
+*Under review*
 
+Standard industry risk models assume Gaussian dependence between construction material prices — a structural flaw with zero upper tail dependence that underestimates capital requirements during crises. Using 24 years of Greek ELSTAT data and 100,000 Monte Carlo simulations with Gumbel copulas (Marshall–Olkin sampler, bootstrap CIs, R-vine cross-check), the study quantifies a **hidden P85 contingency gap of EUR 8,133 (base case) to EUR 44,461 (stress scenario)** on a EUR 2.3M reference project over 24 months — equivalent to **7–11% of contractor net profit in the base case and 39–60% under stress**.
 
-Standard industry risk models assume Gaussian dependence between construction material prices - a structural flaw that systematically underestimates capital requirements during crises. Using 24 years of Greek ELSTAT data and 100,000 Monte Carlo simulations with Gumbel Archimedean copulas, the study quantifies a **EUR 45,806 hidden risk gap** at P85 during the 2021–2024 energy crisis - equivalent to **38–48% erosion of contractor net profit margins**.
+---
 
-[![Repository](https://img.shields.io/badge/Code-quant--risk--copula-181717?style=flat&logo=github)](https://github.com/DimitriosChronis/quant-risk-copula)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9557--4175-brightgreen?style=flat&logo=orcid)](https://orcid.org/0009-0001-9557-4175)
+### Academic Service
 
+- **Peer Reviewer** — *Automation in Construction* (Elsevier)
 
 ---
 
@@ -26,7 +37,8 @@ Standard industry risk models assume Gaussian dependence between construction ma
 
 | Project | Method | Output |
 | :--- | :--- | :--- |
-| **Tail Risk Engine** (Paper) | Gumbel Copula · Marshall-Olkin sampler · Bootstrap CI | EUR 45,806 hidden risk gap at P85 |
+| **LSTM Early-Warning Agent** (Paper, ASCE) | 5-seed LSTM ensemble · SHAP · walk-forward validation | Crisis detection AUC 0.908 · EUR 2.35M simulated savings |
+| **Tail Risk Engine** (Paper) | Gumbel Copula · Marshall–Olkin sampler · Bootstrap CI | P85 gap EUR 8,133 (base) – 44,461 (stress) |
 | **Seismic Fragility Analysis** | Non-linear time history · 500+ runs | Probabilistic collapse curves |
 | **Credit Risk Modeling** (JPMorgan Forage) | Dynamic programming · FICO quantization | PD estimation · loan book analysis |
 | **Structural Anomaly Detection** | Isolation Forest · OpenCV | Automated SHM pipeline |
@@ -36,6 +48,7 @@ Standard industry risk models assume Gaussian dependence between construction ma
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)

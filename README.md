@@ -21,7 +21,7 @@ National Technical University of Athens (NTUA) · Athens, Greece
 An automated early-warning pipeline that classifies Greek construction fuel/energy cost crisis regimes two months ahead using only public US Producer Price Index series as leading indicators. A five-seed LSTM ensemble with strictly point-in-time (leak-free) crisis labels attains **AUC = 0.908** out-of-sample; SHAP explainability reveals regime-dependent feature importance, and eight probability-driven procurement rules save **EUR 2.35M over a 72-month simulation** versus a static baseline.
 
 **Global Commodity Transmission to European Construction Cost Inflation: A Vine Copula Network Topology and System VARX Analysis**
-*In production, Construction Management and Economics (Taylor & Francis)*
+*In production, Construction Management and Economics (Taylor & Francis) · DOI: [10.1080/01446193.2026.2732227](https://doi.org/10.1080/01446193.2026.2732227)*
 
 A two-layer dependence analysis of five Greek construction price indices against five US commodity benchmarks (299 monthly observations, 2000–2024): a ten-dimensional R-vine copula identifies **US Fuel PPI as the dominant contemporaneous hub**, while a system VARX shows that bilateral specifications **overstate** matched-channel transmission (Steel FEVD 22.2% → 13.5%) and that for Fuel/Energy and PVC the transmission operates through **cross-material spillovers**. Transmission lags of 1–4 months give cost engineers actionable procurement lead time; the revised P95 contingency for a EUR 2.3M reference project is **EUR 28,510 (1.24%)** versus a EUR 45,174 textbook benchmark.
 

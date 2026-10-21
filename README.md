@@ -80,11 +80,8 @@ Standard industry risk models assume Gaussian dependence between construction ma
 
 ### Experience
 
-**AIRKAM ATEE** - Quantity Surveyor & Risk Engineer *(Sept 2023 – Present)*
-Public infrastructure · €15M+ projects · Probabilistic risk assessments · Budget control
-
-**CHRONIS GROUP** - Commercial Manager & Project Lead *(Sept 2023 – Present)*
-Residential & PV projects · Value engineering · Client advisory
+**CHRONIS GROUP** - R&D Lead & Commercial Manager *(Sept 2023 – Present)*
+Engineering, construction & real-estate development firm (est. 1996). Founded the firm's technology & research function. Client engagements: quantity surveying & probabilistic risk assessment on AIRKAM S.A.'s €15M+ public infrastructure programme · Commercial delivery of residential & PV projects (€2M+) · First production pilot of Chronos Risk (live commodity data → EUR-denominated procurement alerts)
 
 **CERN** - HSSIP Engineering Intern *(Sept 2021)*
 Top 25 nationwide · Particle detection systems · Computational safety simulations

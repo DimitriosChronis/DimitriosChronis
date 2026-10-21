@@ -11,19 +11,19 @@ National Technical University of Athens (NTUA) · Athens, Greece
 
 ### Research
 
-**Construction Cost-Risk Research Suite** — a five-paper, first-author research program on quantitative construction cost risk: copula-based tail dependence, commodity-transmission networks, LSTM crisis early-warning, and portfolio-level risk monitoring on public procurement data. **Two papers accepted and in production** (*Journal of Computing in Civil Engineering*, ASCE; *Construction Management and Economics*, Taylor & Francis); three under peer review.
+**Construction Cost-Risk Research Suite** — an eight-paper, first-author research programme on quantitative construction cost risk: copula-based tail dependence, commodity-transmission networks, LSTM crisis early-warning, and portfolio-level risk monitoring on public procurement data. **One paper published** (*Construction Management and Economics*, Taylor & Francis, October 2026) **and one in press** (*Journal of Computing in Civil Engineering*, ASCE); further papers under peer review.
 
 [![Repository](https://img.shields.io/badge/Code-construction--risk--suite-181717?style=flat&logo=github)](https://github.com/DimitriosChronis/construction-risk-suite)
 
-**Real-Time Crisis-Regime Detection for Construction Fuel and Energy Costs: An Explainable LSTM Early-Warning Agent**
-*In production, Journal of Computing in Civil Engineering (ASCE) · DOI: [10.1061/JCCEE5/CPENG-8417](https://doi.org/10.1061/JCCEE5/CPENG-8417)*
-
-An automated early-warning pipeline that classifies Greek construction fuel/energy cost crisis regimes two months ahead using only public US Producer Price Index series as leading indicators. A five-seed LSTM ensemble with strictly point-in-time (leak-free) crisis labels attains **AUC = 0.908** out-of-sample; SHAP explainability reveals regime-dependent feature importance, and eight probability-driven procurement rules save **EUR 2.35M over a 72-month simulation** versus a static baseline.
-
 **Global Commodity Transmission to European Construction Cost Inflation: A Vine Copula Network Topology and System VARX Analysis**
-*In production, Construction Management and Economics (Taylor & Francis) · DOI: [10.1080/01446193.2026.2732227](https://doi.org/10.1080/01446193.2026.2732227)*
+*Published, Construction Management and Economics (Taylor & Francis), October 2026 · DOI: [10.1080/01446193.2026.2732227](https://doi.org/10.1080/01446193.2026.2732227)*
 
 A two-layer dependence analysis of five Greek construction price indices against five US commodity benchmarks (299 monthly observations, 2000–2024): a ten-dimensional R-vine copula identifies **US Fuel PPI as the dominant contemporaneous hub**, while a system VARX shows that bilateral specifications **overstate** matched-channel transmission (Steel FEVD 22.2% → 13.5%) and that for Fuel/Energy and PVC the transmission operates through **cross-material spillovers**. Transmission lags of 1–4 months give cost engineers actionable procurement lead time; the revised P95 contingency for a EUR 2.3M reference project is **EUR 28,510 (1.24%)** versus a EUR 45,174 textbook benchmark.
+
+**Real-Time Crisis-Regime Detection for Construction Fuel and Energy Costs: An Explainable LSTM Early-Warning Agent**
+*In press, Journal of Computing in Civil Engineering (ASCE) · DOI: [10.1061/JCCEE5/CPENG-8417](https://doi.org/10.1061/JCCEE5/CPENG-8417)*
+
+An automated early-warning pipeline that classifies Greek construction fuel/energy cost crisis regimes two months ahead using only public US Producer Price Index series as leading indicators. A five-seed LSTM ensemble with strictly point-in-time (leak-free) crisis labels attains **AUC = 0.908** out-of-sample; SHAP explainability reveals regime-dependent feature importance, and eight probability-driven procurement rules save **EUR 2.35M over a 72-month simulation** versus a static baseline.
 
 **From Statistical Error to Profit Erosion: Quantifying Tail Dependence in Construction Cost Overruns**
 *Under review*
@@ -43,8 +43,8 @@ Standard industry risk models assume Gaussian dependence between construction ma
 
 | Project | Method | Output |
 | :--- | :--- | :--- |
-| **LSTM Early-Warning Agent** (Paper, ASCE) | 5-seed LSTM ensemble · SHAP · walk-forward validation | Crisis detection AUC 0.908 · EUR 2.35M simulated savings |
-| **Commodity Transmission Network** (Paper, T&F) | 10-D R-vine copula · system VARX · block-exogeneity | US Fuel PPI hub · 1–4M procurement lead times |
+| **Commodity Transmission Network** (Published, T&F) | 10-D R-vine copula · system VARX · block-exogeneity | US Fuel PPI hub · 1–4M procurement lead times |
+| **LSTM Early-Warning Agent** (In press, ASCE) | 5-seed LSTM ensemble · SHAP · walk-forward validation | Crisis detection AUC 0.908 · EUR 2.35M simulated savings |
 | **Tail Risk Engine** (Paper) | Gumbel Copula · Marshall–Olkin sampler · Bootstrap CI | P85 gap EUR 8,133 (base) – 44,461 (stress) |
 | **Seismic Fragility Analysis** | Non-linear time history · 500+ runs | Probabilistic collapse curves |
 | **Credit Risk Modeling** (JPMorgan Forage) | Dynamic programming · FICO quantization | PD estimation · loan book analysis |

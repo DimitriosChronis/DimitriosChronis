@@ -25,8 +25,8 @@ A two-layer dependence analysis of five Greek construction price indices against
 
 An automated early-warning pipeline that classifies Greek construction fuel/energy cost crisis regimes two months ahead using only public US Producer Price Index series as leading indicators. A five-seed LSTM ensemble with strictly point-in-time (leak-free) crisis labels attains **AUC = 0.908** out-of-sample; SHAP explainability reveals regime-dependent feature importance, and eight probability-driven procurement rules save **EUR 2.35M over a 72-month simulation** versus a static baseline.
 
-**From Statistical Error to Profit Erosion: Quantifying Tail Dependence in Construction Cost Overruns**
-*Under review*
+**Copula-Based Tail Risk in Construction Cost Overruns**
+*Under review — full title and journal withheld during double-blind peer review*
 
 Standard industry risk models assume Gaussian dependence between construction material prices — a structural flaw with zero upper tail dependence that underestimates capital requirements during crises. Using 24 years of Greek ELSTAT data and 100,000 Monte Carlo simulations with Gumbel copulas (Marshall–Olkin sampler, bootstrap CIs, R-vine cross-check), the study quantifies a **hidden P85 contingency gap of EUR 8,133 (base case) to EUR 44,461 (stress scenario)** on a EUR 2.3M reference project over 24 months — equivalent to **7–11% of contractor net profit in the base case and 39–60% under stress**.
 

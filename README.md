@@ -16,7 +16,7 @@ National Technical University of Athens (NTUA) · Athens, Greece
 [![Repository](https://img.shields.io/badge/Code-construction--risk--suite-181717?style=flat&logo=github)](https://github.com/DimitriosChronis/construction-risk-suite)
 
 **Global Commodity Transmission to European Construction Cost Inflation: A Vine Copula Network Topology and System VARX Analysis**
-*Published, Construction Management and Economics (Taylor & Francis), October 2026 · DOI: [10.1080/01446193.2026.2732227](https://doi.org/10.1080/01446193.2026.2732227)*
+*Published (Open Access), Construction Management and Economics, 44(12), 1086–1106 · DOI: [10.1080/01446193.2026.2732227](https://doi.org/10.1080/01446193.2026.2732227)*
 
 A two-layer dependence analysis of five Greek construction price indices against five US commodity benchmarks (299 monthly observations, 2000–2024): a ten-dimensional R-vine copula identifies **US Fuel PPI as the dominant contemporaneous hub**, while a system VARX shows that bilateral specifications **overstate** matched-channel transmission (Steel FEVD 22.2% → 13.5%) and that for Fuel/Energy and PVC the transmission operates through **cross-material spillovers**. Transmission lags of 1–4 months give cost engineers actionable procurement lead time; the revised P95 contingency for a EUR 2.3M reference project is **EUR 28,510 (1.24%)** versus a EUR 45,174 textbook benchmark.
 
